@@ -2,15 +2,15 @@
 🛰️ Remote sensing project using Sentinel-1 SAR data | Area: Prayagraj   📌 SNAP, PolSARpro | C2/T3 Matrix, Freeman/Yamaguchi/G4U decomposition   🤖 Random Forest Classification | 🗺️ DEM Generation | 🎯 Final report &amp; PPT
 
 ## 📂 Project Structure
-📁 IITB-Microwave-SAR-Prayagraj/
-├── RASTER CALCULATIONS/
-├── SLC [Prayagraj]/
-├── COREGISTRATION - .pptx
-├── Final Report and PPT ON Prayagraj/
+📁 IITB-Microwave-SAR-Prayagraj/<br>
+├── RASTER CALCULATIONS/<br>
+├── SLC [Prayagraj]/<br>
+├── COREGISTRATION - .pptx<br>
+├── Final Report and PPT ON Prayagraj/<br>
+
 ---
 
 ## 🧠 Key Concepts Covered
-
 - 📍 **Area of Study**: Prayagraj, Uttar Pradesh, India 🇮🇳  
 - 📆 Dataset: **Sentinel-1 SLC** (two scenes with a 6-day gap)
 
