@@ -1,0 +1,33 @@
+RandomForest classifier newClassifier
+
+Cross Validation
+Number of classes = 3
+   class 0.0: urban                    
+    accuracy = 0.8404 precision = 0.7307 correlation = 0.7068 errorRate = 0.1596
+    TruePositives = 1376.0000 FalsePositives = 507.0000 TrueNegatives = 2826.0000 FalseNegatives = 291.0000
+   class 1.0: water                    
+    accuracy = 0.9984 precision = 0.9988 correlation = 0.9964 errorRate = 0.0016
+    TruePositives = 1660.0000 FalsePositives = 2.0000 TrueNegatives = 3332.0000 FalseNegatives = 6.0000
+   class 2.0: veg                      
+    accuracy = 0.8412 precision = 0.8000 correlation = 0.6888 errorRate = 0.1588
+    TruePositives = 1164.0000 FalsePositives = 291.0000 TrueNegatives = 3042.0000 FalseNegatives = 503.0000
+
+Using Testing dataset, % correct predictions = 84.0000
+Total samples = 10000
+RMSE = 0.796994353806851
+Bias = -0.08560000000000001
+
+Distribution:
+   class 0.0: urban                      3334	 (33.3400%)
+   class 1.0: water                      3332	 (33.3200%)
+   class 2.0: veg                        3334	 (33.3400%)
+
+Testing feature importance score:
+Each feature is perturbed 3 times and the % correct predictions are averaged
+The importance score is the original % correct prediction - average
+   rank 1   feature 1  : C11                      score: tp=0.5981 accuracy=0.3987 precision=0.3737 correlation=0.5879 errorRate=-0.3987 cost=-1.1148 GainRatio = 0.1127
+   rank 2   feature 4  : C22                      score: tp=0.4387 accuracy=0.2924 precision=0.3016 correlation=0.5549 errorRate=-0.2924 cost=-0.6544 GainRatio = 0.5975
+   rank 3   feature 2  : C12_real                 score: tp=0.1939 accuracy=0.1292 precision=0.1901 correlation=0.2143 errorRate=-0.1292 cost=-0.3094 GainRatio = 0.0612
+   rank 4   feature 3  : C12_imag                 score: tp=0.1588 accuracy=0.1059 precision=0.1589 correlation=0.1818 errorRate=-0.1059 cost=-0.2396 GainRatio = 0.0888
+
+
