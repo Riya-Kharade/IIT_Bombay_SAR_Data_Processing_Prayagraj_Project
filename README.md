@@ -8,7 +8,6 @@
 ├── RASTER CALCULATIONS<br>
 ├── complex data<br>
 ├── COREGISTRATION - .pptx<br>
-├── Final Report and PPT ON Prayagraj/<br>
 ├── README.md<br>
 
 ---
