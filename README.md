@@ -35,7 +35,7 @@
 |------------|----------------------------------------------------|----------------------------------------------------------------------|
 | **SNAP**       | SAR data processing (by ESA)                      | [Download SNAP](https://step.esa.int/main/download/snap-download/)  |
 | **Snaphu Plugin** | Unwrapping phase for DEM generation             | [Snaphu Plugin](https://step.esa.int/main/snap-supported-plugins/snaphu/) |
-| **QGIS**       | Optional for DEM visualization                    | [Download QGIS](https://qgis.org/)                                  |
+| **QGIS**       | Optional for DEM visualization                    | [Download QGIS](https://qgis.org/ )                                  |
 | **EarthExplorer** | Download Sentinel or Landsat data              | [USGS EarthExplorer](https://earthexplorer.usgs.gov/)               |
 
 ---
